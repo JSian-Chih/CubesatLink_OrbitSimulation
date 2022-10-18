@@ -5,4 +5,4 @@
 ## GMAT Guide
 
 1. 請先下載[GMAT Software Packages](https://sourceforge.net/projects/gmat/)，開啟位於bin資料夾底下的 GMAT.exe。
-2. 利用坐上角開啟此 script 檔，即可運行。
+2. 利用左上角「開啟檔案」開啟此 script 檔，即可運行。
